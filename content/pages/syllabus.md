@@ -81,12 +81,57 @@ Grading
 
 Your grade in ESD.86 will be determined based on your performance on homework, quizzes, a term project, and class participation as described in the table below:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Homework (6 assignments) | 40% |
-| Quizzes (2) | 30% |
-| Class participation | 5% |
-| Term project | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework (6 assignments)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes (2)
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term project
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -96,33 +141,432 @@ This is a doctoral subject, and we expect everyone who works hard in the subject
 Calendar
 --------
 
-| SES # | TOPICS | INSTRUCTORS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 |  {{< br >}}{{< br >}} Introduction and overview {{< br >}}{{< br >}} 3-door problem {{< br >}}{{< br >}}  | Prof. Richard C. Larson and Prof. Daniel D. Frey | &nbsp; |
-| 2 |  {{< br >}}{{< br >}} Analyzing a probability problem {{< br >}}{{< br >}} Probability mass functions {{< br >}}{{< br >}}  | Prof. Richard C. Larson | &nbsp; |
-| 3 |  {{< br >}}{{< br >}} Broken stick problem {{< br >}}{{< br >}} Working in sample space {{< br >}}{{< br >}}  | Prof. Richard C. Larson | &nbsp; |
-| 4 | Pedestrian crossing problem | Prof. Richard C. Larson | Homework 1 due |
-| 5 | Random incidence: A major source of selection bias | Prof. Richard C. Larson | &nbsp; |
-| 6 | Random incidence and more | Prof. Richard C. Larson | &nbsp; |
-| 7 | Spatial models | Prof. Richard C. Larson | Homework 2 due |
-| 8 | Markov processes and their application to queueing, part 1 | Prof. Richard C. Larson | &nbsp; |
-| 9 | Markov processes and their application to queueing, part 2 | Prof. Richard C. Larson | Homework 3 due |
-| 10 | Queueing and transitions: Sampling from distributions, Gauss | Prof. Richard C. Larson | &nbsp; |
-| 11 | Derived distributions to statistics | Aman Chawla (guest lecturer) | Homework 4 due |
-| 12 |  {{< br >}}{{< br >}} The Queue Inference Engine and the psychology of queueing {{< br >}}{{< br >}} Beyond the physics of queueing {{< br >}}{{< br >}}  | Prof. Richard C. Larson | &nbsp; |
-| &nbsp; | Quiz 1 | &nbsp; |
-| 13 | The Weibull distribution and parameter estimation | Prof. Daniel D. Frey | &nbsp; |
-| 14 | Hypothesis testing | Prof. Daniel D. Frey | &nbsp; |
-| 15 | Descriptive statistics and statistical graphics | Prof. Daniel D. Frey | &nbsp; |
-| 16 | Regression | Prof. Daniel D. Frey | Homework 5 due |
-| 17 | Analysis of variance, with discussion of Bayesian and frequentist statistics | Prof. Daniel D. Frey | &nbsp; |
-| 18 | Multiple regression | Prof. Daniel D. Frey | &nbsp; |
-| 19 |  {{< br >}}{{< br >}} Design of experiments, part 1 {{< br >}}{{< br >}} Design of experiments, part 2 {{< br >}}{{< br >}}  | Prof. Daniel D. Frey | Homework 6 due |
-| 20 | Design of computer experiments | Prof. Daniel D. Frey | &nbsp; |
-| 21 | Closure - Threats to validity of inference | Prof. Daniel D. Frey | &nbsp; |
-| &nbsp; | Quiz 2 | &nbsp; |
-| 22 | Final presentations 1 | &nbsp; |
-| 23 | Final presentations 2 | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+INSTRUCTORS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction and overview
+
+3-door problem
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson and Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Analyzing a probability problem
+
+Probability mass functions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Broken stick problem
+
+Working in sample space
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Pedestrian crossing problem
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Random incidence: A major source of selection bias
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Random incidence and more
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Spatial models
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Markov processes and their application to queueing, part 1
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Markov processes and their application to queueing, part 2
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Queueing and transitions: Sampling from distributions, Gauss
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Derived distributions to statistics
+{{< tdclose >}}
+{{< tdopen >}}
+Aman Chawla (guest lecturer)
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The Queue Inference Engine and the psychology of queueing
+
+Beyond the physics of queueing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Richard C. Larson
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Weibull distribution and parameter estimation
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Hypothesis testing
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Descriptive statistics and statistical graphics
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Regression
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Analysis of variance, with discussion of Bayesian and frequentist statistics
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Multiple regression
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Design of experiments, part 1
+
+Design of experiments, part 2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Design of computer experiments
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Closure - Threats to validity of inference
+{{< tdclose >}}
+{{< tdopen >}}
+Prof. Daniel D. Frey
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Final presentations 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

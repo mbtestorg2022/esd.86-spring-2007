@@ -9,14 +9,75 @@ This page presents the homework assignments, plus some winners of the weekly con
 Homework
 --------
 
-| HOMEWORK | SOLUTIONS |
-| --- | --- |
-| Homework 1 ([PDF]({{< baseurl >}}/resources/ps1)) | ([PDF]({{< baseurl >}}/resources/ps1_sol)) |
-| Homework 2 ([PDF]({{< baseurl >}}/resources/ps2)) | ([PDF]({{< baseurl >}}/resources/ps2_sol)) |
-| Homework 3 ([PDF]({{< baseurl >}}/resources/ps3)) | ([PDF]({{< baseurl >}}/resources/ps3_sol)) |
-| Homework 4 ([PDF]({{< baseurl >}}/resources/ps4)) | ([PDF]({{< baseurl >}}/resources/ps4_sol)) |
-| Homework 5 ([PDF]({{< baseurl >}}/resources/ps5)) | ([PDF]({{< baseurl >}}/resources/ps5_sol)) |
-| Homework 6 ([PDF]({{< baseurl >}}/resources/ps6)) | ([PDF]({{< baseurl >}}/resources/ps6_sol)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+HOMEWORK
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 1 ([PDF]({{< baseurl >}}/resources/ps1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps1_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 2 ([PDF]({{< baseurl >}}/resources/ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps2_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 3 ([PDF]({{< baseurl >}}/resources/ps3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps3_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 4 ([PDF]({{< baseurl >}}/resources/ps4))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps4_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 5 ([PDF]({{< baseurl >}}/resources/ps5))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps5_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework 6 ([PDF]({{< baseurl >}}/resources/ps6))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ps6_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Weekly Contest Winners
 ----------------------
