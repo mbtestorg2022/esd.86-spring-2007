@@ -6,6 +6,7 @@ description: 'This resource contains an example of student work: a contest winne
   that Require ID." New York Times, February 21, 2007.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/6b57da884c269b9d666a046ba9543285_abuses5.pdf
 file_type: application/pdf
+parent_uid: 7c33bcf1-cdaa-ce25-416c-410a3e692ba1
 resourcetype: Document
 title: abuses5.pdf
 uid: 6b57da88-4c26-9b9d-666a-046ba9543285

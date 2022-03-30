@@ -6,6 +6,7 @@ description: 'This resource contains an example of student work: a winner of the
   Survey." LA Times, February 15, 2007.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/esd-86-models-data-and-inference-for-socio-technical-systems-spring-2007/579abd23523f7740ae578da5864a254b_abuses2.pdf
 file_type: application/pdf
+parent_uid: 7c33bcf1-cdaa-ce25-416c-410a3e692ba1
 resourcetype: Document
 title: abuses2.pdf
 uid: 579abd23-523f-7740-ae57-8da5864a254b
